@@ -15,6 +15,10 @@ url: 'https://saigoupi.github.io' # your host
 baseurl: ''
 theme: jekyll-theme-h2o-ac
 
+# 禁用浏览器发送 Referer 头，跳过博客园图床的防盗链检测
+meta_tags:
+  referrer: "no-referrer"
+
 # Internalization 国际化
 languages: ["zh-Hans", "zh-Hant", "en", "ja"]
 default_lang: "zh-Hans"
