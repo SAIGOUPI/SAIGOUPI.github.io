@@ -2,7 +2,7 @@
 title: '赛狗屁的技术空间 | 游戏 WEB 金融'
 description: '欢迎来到赛狗屁的个人博客！这里是一个关于游戏开发、Web开发、经济学和金融的知识分享平台。'
 keyword: '游戏开发，web开发，经济学，金融，博客，编程，技术，赛狗屁'
-url: 'https://easy-h2o-ac.pages.dev' # your host
+url: 'https://saigoupi.github.io' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
